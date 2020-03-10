@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: AMLDocker
+  IMAGE_NAME: aml-docker
 
 jobs:
   # Run tests.
