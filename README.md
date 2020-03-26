@@ -2,7 +2,11 @@
 
 # Azure Machine Learning Docker Image
 
-This Docker image is based on  the `python:3-slim` image and comes pre-installed with the [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py). This image is used for several GitHub Actions for Azure Machine Learning:
+This Docker image is based on  the `python:3-slim` image and comes pre-installed with the [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py). The image is publicly available on Docker Hub: https://hub.docker.com/r/marvinbuss/aml-docker
+
+# GitHub Actions for Azure Machine Learning
+
+This image is used for several GitHub Actions for Azure Machine Learning:
 
 - [aml-workspace](https://github.com/Azure/aml-workspace) - Connects to or creates a new workspace
 - [aml-compute](https://github.com/Azure/aml-compute) - Connects to or creates a new compute target in Azure Machine Learning
