@@ -17,4 +17,5 @@ This image is used for several GitHub Actions for Azure Machine Learning:
 For more information, please visit the repositories of the respective action.
 There are also templates available, which show you, how the end to end process looks like:
 
-- [aml-template]() - Sample project, which uses all previously mentioned GitHub Actions
+1. Simple example: [ml-template-azure](https://github.com/machine-learning-apps/ml-template-azure) and
+2. Comprehensive example: [aml-template](https://github.com/Azure/aml-template).
