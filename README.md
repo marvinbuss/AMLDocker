@@ -2,11 +2,11 @@
 
 # Azure Machine Learning Docker Image
 
-This Docker image is based on  the `python:3-slim` image and comes pre-installed with the [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py). The image is publicly available on Docker Hub: https://hub.docker.com/r/marvinbuss/aml-docker
+This Docker image is based on  the `python:3.8-slim` image and comes pre-installed with the [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py). The image is publicly available on Docker Hub: https://hub.docker.com/r/marvinbuss/aml-docker
 
 ## Docker Container Details
 
-Python Version: 3.8.2
+Python Version: 3.8.6
 
 # GitHub Actions for Azure Machine Learning
 
